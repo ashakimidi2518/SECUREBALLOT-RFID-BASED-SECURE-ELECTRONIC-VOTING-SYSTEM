@@ -1,0 +1,2 @@
+# SECUREBALLOT-RFID-BASED-SECURE-ELECTRONIC-VOTING-SYSTEM
+The main aim of this project design and develop a secure, reliable, and user-friendly electronic voting system that utilizes RFID technology for voter authentication and embedded systems for vote management. The system aims to ensure that only authorized voters can cast their votes, prevent duplicate voting through a one-voter-one-vote mechanism.

@@ -31,7 +31,6 @@ A secure, tamper-evident electronic voting prototype built on the **NXP LPC2148 
 - **Modular drivers:** LCD, keypad, UART0/UART1, I2C, EEPROM, RTC, each tested alone before integration.
 
 ## 2. Block diagram
-
 ![SecureBallot block diagram: LPC2148 with keypad, RFID reader, LCD, LEDs/buzzer, EEPROM, RTC and PC](block_diagram.png)
 
 *Block diagram of SecureBallot: inputs (4x4 keypad, RFID reader on UART1) on the left, outputs (LCD, green LED, red LED/buzzer) and the AT24C256 EEPROM (I2C) on the right, UART0 to the PC through MAX232, and the on-chip RTC.*
